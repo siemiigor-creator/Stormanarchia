@@ -1,0 +1,8 @@
+name: StormAnarchia
+version: 1.0.0
+main: pl.stormanarchia.StormAnarchia
+api-version: 1.19
+author: Storm
+commands:
+  stormanarchia:
+    aliases: [sa]
